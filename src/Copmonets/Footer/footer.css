@@ -1,0 +1,32 @@
+.footer {
+  background-color: #DAD3D3;
+  color: #E29A9A;
+  padding: 40px 0;
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+.section {
+  width: calc(33.33% - 20px);
+  margin: 0 10px;
+}
+.section h2 {
+  margin-bottom: 10px;
+}
+.section ul {
+  list-style: none;
+  padding: 0;
+}
+.section ul li {
+  margin-bottom: 8px;
+}
+.contact {
+  width: 100%;
+  text-align: center;
+  margin-top: 30px;
+}

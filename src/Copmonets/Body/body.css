@@ -1,0 +1,95 @@
+.hellen{
+    width: 3%;
+    height: 4%;
+    border-radius: 50%;
+    padding-left: 10%;
+
+}
+.h3{
+    font-size: 400%;
+    padding-left: 10%;
+    color:  rgb(81, 18, 18);
+}
+.p{
+    padding-left: 4%;
+    position: relative;
+    top: -70px;
+    padding-left: 14%;
+}
+.btn2{
+    padding: 20px;
+    width:8%;
+    border-radius: 40px;
+    background-color:  rgb(30, 25, 74);
+    margin-left: 10%;
+    
+    
+}
+.icon{
+    width: 55px;
+    height: 55px;
+    position: relative;
+    bottom: -20px;
+    padding-left: 20px;
+    padding-left: 12%;
+}
+.order{
+    position: relative;
+    padding-left: 23%;
+    top: -60px;
+
+}
+.sandwitch{
+    position: relative;
+    padding-left: 50%;
+    top: -400px;
+}
+.deliveries{
+    position: relative;
+    top: -350px;
+    display: flex;
+    gap: 20%;
+    padding-left: 10%;
+}
+.category{
+    position: relative;
+    top: -200px;
+    font-size: 500%;
+    padding-left: 10%;
+}
+.span{
+    color:  rgb(34, 22, 61);
+}
+.paragraph{
+    padding-left: 70%;
+    position: relative;
+    top: -400px;
+}
+.categ{
+    position: relative;
+    top: -200px;
+    display: flex;
+    gap: 20%;
+    padding-left: 10%;
+
+}
+.p1{
+    color:  rgb(42, 92, 87);
+}
+.btn3{
+    position: relative;
+    top: -150px;
+    margin-left: 70%;
+    padding: 20px;
+    width:8%;
+    border-radius: 40px;
+    background-color: rgb(80, 32, 88);
+ margin-top: 20%;
+}
+.s{
+    font-size: 500%;
+    padding-left: 10%;
+}
+.p2{
+    padding-left: 10%;
+}
