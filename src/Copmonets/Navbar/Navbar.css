@@ -22,13 +22,13 @@
 }
 .nav-links a {
   text-decoration: none;
-  color: #35722c;
+  color: #4d4242;
   /* font-weight: bold; */
 }
 .auth-buttons a {
   margin-left: 20px;
   text-decoration: none;
-  color: #5e1111;
+  color: #8a1071;
   border: 1px solid #481a3c;
   padding: 5px 10px;
   border-radius: 5px;
@@ -39,9 +39,10 @@
   color: #fff;
 }
 .signup-button {
-  background-color: rgb(15, 27, 66);
-  color: #fff;
-  border: none;
+  
+  color: #d3506d;
+  border: solid  #d3506d 50%;
+  border-radius: 50%;
   padding: 10px 20px;
   border-radius: 5px;
   cursor: pointer;

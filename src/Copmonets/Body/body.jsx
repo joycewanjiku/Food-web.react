@@ -5,19 +5,21 @@ import {BiNotification} from "react-icons/bi";
 import {BiChevronRight} from "react-icons/bi";
 
 
+
 const Body=()=> {
   return (
     <div className="main">
     <h3 className="h3">All fast food is</h3>
     <h3 className="h3">Available at foodle</h3>
-    <img  className="hellen" src="grilsundwhich.png" alt="hellen"/>
+    <img  className="gril" src="grilsandwhich.png" alt="gril"/>
     <p className="p">We Are Just A Click Away When You</p>
     <p className="p">Crave For Fast Delicious Food</p>
 
+
     <button className="btn2">< BiBriefcase/> Buy Now</button>
-    <img className="icon" src="./Images/pizza.png" alt="icon"/>
+    <img className="icon" src=".grilsandwhich.png" alt="icon"/>
     <h3 className="order">How to order</h3>
-    {/* <img className="sandwitch" src={sandwitchImg} alt="sandwitch"/> */}
+   
 
    <div className="deliveries">
    <div>
@@ -53,22 +55,20 @@ const Body=()=> {
    <p className="paragraph">From Here</p>
    <div className="categ">
    <div>
-   {/* <img className="burger" src={burgerImg } alt="burger"/> */}
+   
    <h2>Chicken Burger</h2>
    <p className="p1">Orer Now<BiChevronRight/></p>
 
    </div>
    <div>
-   {/* <button className="btn2">< BiBriefcase/> Buy Now</button>
-    <img className="icon" src="./Images/pizza.png" alt="icon"/>
-    <h3 className="order">How to order</h3> */}
-   {/* <img className="pizza" src={pizzaImg } alt="pizza"/> */}
+  
    <h2>Chicken Pizza</h2>
    <p className="p1">Orer Now<BiChevronRight/></p>
 
    </div>
+   {/* "/./Images/crispy-Fried-Chick.jpg" */}
    <div>
-   <img className="icon" src="/./Images/crispy-Fried-Chick.jpg" alt="icon"/>
+   <img className="icon" src="/./Images/" alt="icon"/>
    <h2>French Fries</h2>
    <p className="p1">Oder Now <BiChevronRight/></p>
 

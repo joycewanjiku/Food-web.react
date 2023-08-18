@@ -26,15 +26,16 @@ const Footer = () => {
         <h2>Contact</h2>
         <ul>
           <li>Email: info@foodle.com</li>
-          <li>Phone: +113036916</li>
+          <li>Phone: 071123443</li>
           <li>Address: 0436 Street, City</li>
         </ul>
       </div>
     </div>
     <div class="contact">
-      <p>&copy; 2023 Foodle. All rights reserved.</p>
+      <p>&copy; 2023 Food. All rights reserved.</p>
     </div>
   </div>
     );
 };
 export default Footer;
+

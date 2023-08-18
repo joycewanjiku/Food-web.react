@@ -6,9 +6,9 @@
 
 }
 .h3{
-    font-size: 400%;
+    font-size: 200%;
     padding-left: 10%;
-    color:  rgb(81, 18, 18);
+    color:  rgb(232, 110, 154);
 }
 .p{
     padding-left: 4%;
@@ -20,7 +20,7 @@
     padding: 20px;
     width:8%;
     border-radius: 40px;
-    background-color:  rgb(30, 25, 74);
+    background-color:  rgb(213, 70, 122);
     margin-left: 10%;
     
     
@@ -43,6 +43,8 @@
     position: relative;
     padding-left: 50%;
     top: -400px;
+    
+   
 }
 .deliveries{
     position: relative;
@@ -50,6 +52,7 @@
     display: flex;
     gap: 20%;
     padding-left: 10%;
+    margin-top: 25%;
 }
 .category{
     position: relative;
@@ -80,11 +83,12 @@
     position: relative;
     top: -150px;
     margin-left: 70%;
-    padding: 20px;
+    padding: 20px 20px;
     width:8%;
-    border-radius: 40px;
-    background-color: rgb(80, 32, 88);
- margin-top: 20%;
+    border-radius: 10px;
+    background-color: rgb(191, 34, 83);
+    margin-top: 20%;
+    margin-left: 50%;
 }
 .s{
     font-size: 500%;
