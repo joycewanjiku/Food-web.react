@@ -1,4 +1,4 @@
-/* .footer {
+.footer {
   background-color: #DAD3D3;
   color: #E29A9A;
   padding: 40px 0;
@@ -35,40 +35,4 @@
   width: 100%;
   text-align: center;
   margin-top: 30px;
-} */
-footer {
-  padding: 20px;
-  text-align: center;
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  margin: 5%;
-  background-color: rgb(252, 230, 252);
-
-}
-ul li{
-  list-style: none;
-  padding: 10px;
-  font-size: large;
-  color: #333;
-}
-p{
-  font-size: medium;
-  color: #333;
-}
-
-h3{
-  font-size: xx-large;
-  color: red;
-}
-.icons{
-  height: 40px;
-  width: 10%;
-  padding: 10px;
-  color: #333;
-}
-
-@media screen and (max-width: 768px) {
-  .footer {
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-  }
 }

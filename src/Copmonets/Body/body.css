@@ -3,12 +3,14 @@
     height: 4%;
     border-radius: 50%;
     padding-left: 10%;
+ 
 
 }
 .h3{
     font-size: 200%;
-    padding-left: 10%;
-    color:  rgb(232, 110, 154);
+    padding-left: 0%;
+    color:  rgb(88, 39, 57);
+   
 }
 .p{
     padding-left: 4%;
@@ -20,7 +22,7 @@
     padding: 20px;
     width:8%;
     border-radius: 40px;
-    background-color:  rgb(213, 70, 122);
+    background-color:  rgb(158, 32, 80);
     margin-left: 10%;
     
     
@@ -32,17 +34,22 @@
     bottom: -20px;
     padding-left: 20px;
     padding-left: 12%;
+    border: 18px solid #4d178f;
+    margin-top: 10%;
 }
 .order{
     position: relative;
     padding-left: 23%;
     top: -60px;
+    
+
 
 }
 .sandwitch{
     position: relative;
     padding-left: 50%;
     top: -400px;
+    border: 18px solid #4d178f;
     
    
 }
@@ -86,7 +93,7 @@
     padding: 20px 20px;
     width:8%;
     border-radius: 10px;
-    background-color: rgb(191, 34, 83);
+    background-color: rgb(128, 51, 75);
     margin-top: 20%;
     margin-left: 50%;
 }
